@@ -1,3 +1,7 @@
+body {
+  background : linear-gradient(90deg, #3742fa,#70a1ff);
+  color: white;
+
 h1 {
   color : green;
 }
