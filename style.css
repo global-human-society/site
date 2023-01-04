@@ -1,13 +1,13 @@
-body {
-  background : linear-gradient(90deg, #3742fa,#70a1ff);
-  color: white; 
-}
-
 .nav {
   background-color: black;
   width : 100%;
   margin : 0;
   height : 75px;
+}
+
+body {
+  background : linear-gradient(90deg, #3742fa,#70a1ff);
+  color: white; 
 }
 
 h1 {
